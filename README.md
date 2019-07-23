@@ -3,7 +3,7 @@ This is a react Component That will create view with a tip that you want to disp
 
 Download then install using
 ```
-npm install
+npm install kognos-react-native-tool-tip
 ```
 
 Proptypes:
