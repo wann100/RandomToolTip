@@ -1,0 +1,31 @@
+{
+  "name": "React-Random-Tool-Tip",
+  "version": "1.0.0",
+  "description": "A React Component that shows a random tooltip from a given list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wann100/RandomToolTip.git"
+  },
+  "keywords": [
+    "tooltip",
+    "random",
+    "react",
+    "native",
+    "expo",
+    "elements",
+    "uikitten"
+  ],
+  "author": "Mamadou Wann",
+  "license": "MIT",
+  "peerDependencies": {
+  "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+  "react-native-ui-kitten": "^3.1.4",
+  "react-native-elements": "^0.19.1"
+  }
+}
